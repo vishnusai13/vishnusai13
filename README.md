@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on java full stasck<br>👯 I’m  currently lookking for good oportunity <br>🤝 I’m looking for help with upskill my skills <br>🌱 I’m currently learning java full stack <br>And currently i am working on tools  💬 Ask me about<br>
 
 
 ## 🌐 Socials:
