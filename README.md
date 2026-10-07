@@ -1,7 +1,18 @@
-## Hi there 👋
+🔭 I’m currently working on Java Full Stack Development and building practical web applications.
 
-# 💫 About Me:
-🔭 I’m currently working on java full stasck<br>👯 I’m  currently lookking for good oportunity <br>🤝 I’m looking for help with upskill my skills <br>🌱 I’m currently learning java full stack <br>And currently i am working on tools  💬 Ask me about<br>
+🌱 I’m continuously learning and improving my skills in Java, Spring Boot, REST APIs, SQL, HTML, CSS, JavaScript, and modern development tools.
+
+💼 I’m currently looking for opportunities where I can apply my technical skills, learn from experienced professionals, and contribute to real-world projects.
+
+🚀 I’m working on strengthening my problem-solving, backend development, database, and full-stack development skills through hands-on projects.
+
+🛠️ I’m currently exploring and working with development tools, frameworks, and technologies used in modern software development.
+
+🤝 I’m open to collaborating on Java, Spring Boot, Full Stack, and beginner-friendly open-source projects.
+
+💬 Ask me about Java, Spring Boot, REST APIs, SQL, Full Stack Development, and my learning journey.
+
+📫 Feel free to connect with me and discuss opportunities, projects, or collaboration.
 
 
 ## 🌐 Socials:
